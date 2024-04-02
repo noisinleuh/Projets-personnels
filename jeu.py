@@ -8,7 +8,7 @@ PROJET PERSONNEL QUE JE CONTINUE LORSQUE J'AI DU TEMPS LIBRE SIMPLEMENT POUR M'A
 
 
 pyxel.init(214, 214, title="survie")
-pyxel.load("style_.pyxres")
+pyxel.load("style.pyxres")
 
 
 #---------------------Cam---------------------------------
